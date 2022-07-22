@@ -1,10 +1,7 @@
-package com.myorg;
+package nl.benooms.cdksampleapp.infrastructure;
 
 import software.amazon.awscdk.App;
-import software.amazon.awscdk.Environment;
 import software.amazon.awscdk.StackProps;
-
-import java.util.Arrays;
 
 public class JavacdksampleappApp {
     public static void main(final String[] args) {
